@@ -1,0 +1,15 @@
+C:\Users\hp\workspace\BancoTierraMedia\bin\Release\BancoTierraMedia.exe.config
+C:\Users\hp\workspace\BancoTierraMedia\bin\Release\BancoTierraMedia.exe.manifest
+C:\Users\hp\workspace\BancoTierraMedia\bin\Release\BancoTierraMedia.application
+C:\Users\hp\workspace\BancoTierraMedia\bin\Release\BancoTierraMedia.exe
+C:\Users\hp\workspace\BancoTierraMedia\bin\Release\BancoTierraMedia.pdb
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.Inicio.resources
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.Prestamos.resources
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.Properties.Resources.resources
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.csproj.GenerateResource.cache
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.csproj.CoreCompileInputs.cache
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.exe.manifest
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.application
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.exe
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.pdb
+C:\Users\hp\workspace\BancoTierraMedia\obj\Release\BancoTierraMedia.csprojAssemblyReference.cache

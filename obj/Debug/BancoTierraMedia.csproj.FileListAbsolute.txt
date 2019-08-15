@@ -1,0 +1,15 @@
+C:\Users\hp\workspace\BancoTierraMedia\bin\Debug\BancoTierraMedia.exe.config
+C:\Users\hp\workspace\BancoTierraMedia\bin\Debug\BancoTierraMedia.exe
+C:\Users\hp\workspace\BancoTierraMedia\bin\Debug\BancoTierraMedia.pdb
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.csprojAssemblyReference.cache
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.inicio.resources
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.Properties.Resources.resources
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.csproj.GenerateResource.cache
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.csproj.CoreCompileInputs.cache
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.exe
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.pdb
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.Prestamos.resources
+C:\Users\hp\workspace\BancoTierraMedia\bin\Debug\BancoTierraMedia.exe.manifest
+C:\Users\hp\workspace\BancoTierraMedia\bin\Debug\BancoTierraMedia.application
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.exe.manifest
+C:\Users\hp\workspace\BancoTierraMedia\obj\Debug\BancoTierraMedia.application
