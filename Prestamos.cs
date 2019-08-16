@@ -13,7 +13,7 @@ namespace BancoTierraMedia {
 
         string nombre_cliente;
         string[] razas_disponibles = { "Balrog", "Drúedain", "Enano", "Elfo", "Ent", "Goblin", "Hobbit", "Hombre", "Istari (Mago)", "Orco", "Troll", "Uruk-hai" };
-        static readonly int[] cuotas_disponibles = { 12, 24, 36, 60, 120, 180, 240 };
+        int[] cuotas_disponibles = { 12, 24, 36, 60, 120, 180, 240 };
         string[] lugares_disponibles;
         Dictionary<int, double> intereses_base;
 
@@ -28,7 +28,7 @@ namespace BancoTierraMedia {
             intereses_base = new Dictionary<int, double>();
             int i;
             double interes;
-            for (i = 0, interes = 3.0F; i < cuotas_disponibles.Length; i++, interes+=0.5F) {
+            for (i = 0, interes = 3.0; i < cuotas_disponibles.Length; i++, interes+=0.5) {
                 intereses_base[cuotas_disponibles[i]] = interes;
             }
         }
@@ -77,9 +77,9 @@ namespace BancoTierraMedia {
                         int cuotas_pedidas = (int)cuotas.SelectedItem;
                         double interes_total = monto_pedido * (interes_mensual / 100) * cuotas_pedidas;
                         double monto_a_pagar = monto_pedido + interes_total;
-                        string mensaje = "Su préstamo por " + monto_pedido + " en " + cuotas_pedidas + " cuotas se concederá con un interés del " + interes_mensual + "% mensual\nEl monto final asciende a " + monto_a_pagar;
-                        MessageBoxButtons buttons = MessageBoxButtons.OK;
-                        MessageBox.Show(mensaje, "Cálculo de intereses", buttons);
+                        string mensaje = "Su préstamo por " + monto_pedido + " en " + cuotas_pedidas + " cuotas se concederá con un interés del " + interes_mensual + "% mensual.\nEl monto final asciende a " + monto_a_pagar;
+                        MessageBoxButtons botones = MessageBoxButtons.OK;
+                        MessageBox.Show(mensaje, "Cálculo de intereses", botones);
                         break;
                 }
                 case 1: {
