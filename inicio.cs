@@ -38,7 +38,7 @@ namespace BancoTierraMedia
 
         private void controlBotones()
         {
-            if (nombre.Text != string.Empty && nombre.Text.Trim() != "" && nombre.Text.All(Char.IsLetter))
+            if (nombre.Text.Trim() != string.Empty && nombre.Text.All(Char.IsLetter))
             {
                 btnSolicitarPrestamo.Enabled = true;
                 errorProvider1.SetError(nombre, "");
