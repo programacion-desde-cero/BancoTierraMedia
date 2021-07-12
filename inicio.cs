@@ -24,7 +24,7 @@ namespace BancoTierraMedia
 
         private void BtnSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); //Application.Exit() sería una mejor opción, porque evita que el proceso siga corriendo aunque la ventana se haya cerrado.
         }
 
         private void BtnSolicitarPrestamo_Click(object sender, EventArgs e)
